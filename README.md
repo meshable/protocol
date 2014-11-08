@@ -1,4 +1,6 @@
 Meshable Protocol
 ========
 
-Service UUID: `CF4A6676-F75D-47F0-861C-767CFBE35466`
+See the details of the Meshable Protocol in our [wiki](https://github.com/meshable/protocol/wiki)
+
+Found a bug? Have a question? File an issue in this repo or come chat with us on [gitter](https://gitter.im/meshable/discussion)

@@ -5,11 +5,11 @@ Meshable Protocol
 
 *For brevity, Bluetooth Low Energy is shortened to BLE*
 
-- [Meshable Node](#meshable-node)
-  - [Meshable Service](#meshable-service)
-  - [Meshable Characteristic](#meshable-characteristic)
-  - [Application Characteristic](#application-characteristic)
-- [Routing](#routing)
+1. [Meshable Node](#meshable-node)
+  1. [Meshable Service](#meshable-service)
+  2. [Meshable Characteristic](#meshable-characteristic)
+  3. [Application Characteristic](#application-characteristic)
+2. [Routing](#routing)
 
 ## Meshable Node
 
